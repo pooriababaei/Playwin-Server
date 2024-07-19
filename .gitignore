@@ -1,0 +1,8 @@
+node_modules/
+public/
+dist/
+log/
+.idea/
+server.log
+yarn.lock
+yarn-error.log
